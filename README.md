@@ -163,3 +163,5 @@ Sample_submission.csv 16.4 KB
 Test.csv 10.9 KB
 
 PassionfruitStarterNotebook.ipynb 608.5 KB
+
+https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge
